@@ -9,23 +9,23 @@ for KDE Plasma and Android, and the plugins that run my blog.
 
 **Linux desktop**
 
-- [Gnomos](https://github.com/linuxundich/gnomos) – a native Sonos controller for GNOME, with a Shell extension for volume
-- [Parkett](https://github.com/linuxundich/parkett) – a terminal for GNOME that splits like Tilix
-- [Dandelion](https://github.com/linuxundich/dandelion) – write once, post to Mastodon, Bluesky and more
-- [Blocksatz](https://github.com/linuxundich/blocksatz) – a GNOME editor that turns Markdown into WordPress blocks
-- [ScreenForge](https://github.com/linuxundich/ScreenForge) – arrange phone screenshots into polished compositions
-- [Tretlager](https://github.com/linuxundich/tretlager) – Zwift on Linux, set up in five steps
-- [Pulsgeber](https://github.com/linuxundich/pulsgeber) – switch TUXEDO Control Center profiles from the GNOME top bar
+- [Gnomos](https://github.com/freiversum/gnomos) – a native Sonos controller for GNOME, with a Shell extension for volume
+- [Parkett](https://github.com/freiversum/parkett) – a terminal for GNOME that splits like Tilix
+- [Dandelion](https://github.com/freiversum/dandelion) – write once, post to Mastodon, Bluesky and more
+- [Blocksatz](https://github.com/freiversum/blocksatz) – a GNOME editor that turns Markdown into WordPress blocks
+- [ScreenForge](https://github.com/freiversum/ScreenForge) – arrange phone screenshots into polished compositions
+- [Tretlager](https://github.com/freiversum/tretlager) – Zwift on Linux, set up in five steps
+- [Pulsgeber](https://github.com/freiversum/pulsgeber) – switch TUXEDO Control Center profiles from the GNOME top bar
 
 **Android**
 
-- [PlanetFOSS](https://github.com/linuxundich/planetfoss-android) – Linux and open source news from around 200 sources
-- [Hausmusik](https://github.com/linuxundich/hausmusik) – a fast, local Sonos controller, no account and no cloud
-- [Commentator](https://github.com/linuxundich/commentator) – moderate your WordPress comments from your phone
+- [PlanetFOSS](https://github.com/freiversum/planetfoss-android) – Linux and open source news from around 200 sources
+- [Hausmusik](https://github.com/freiversum/hausmusik) – a fast, local Sonos controller, no account and no cloud
+- [Commentator](https://github.com/freiversum/commentator) – moderate your WordPress comments from your phone
 
 **Libraries**
 
-- [Prospekt](https://github.com/linuxundich/prospekt) – procedural backgrounds that look designed
+- [Prospekt](https://github.com/freiversum/prospekt) – procedural backgrounds that look designed
 
 ## More
 
